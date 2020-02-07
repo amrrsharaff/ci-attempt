@@ -9,7 +9,7 @@ const App = () => {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code>
-          Hello This is IDK
+          Hello This is ID
         </p>
         <a
           className="App-link"
